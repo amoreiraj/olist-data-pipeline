@@ -214,5 +214,14 @@ marimo/_static/
 marimo/_lsp/
 __marimo__/
 
+# Local Olist data - never commit raw/clean CSV files
+/data/*.csv
+/data/*.zip
+/data/raw/
+/data/clean/
+
+# Kaggle credentials
+.kaggle/
+
 # Streamlit
 .streamlit/secrets.toml
