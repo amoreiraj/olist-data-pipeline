@@ -1,0 +1,4 @@
+pandas>=2.0,<3.0
+snowflake-connector-python>=3.0,<4.0
+python-dotenv>=1.0,<2.0
+kaggle>=1.5,<2.0
